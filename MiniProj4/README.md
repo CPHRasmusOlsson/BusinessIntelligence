@@ -1,1 +1,3 @@
-
+1. I applied a Decision tree, Naïve Bayes and a K-means clustering model to the project
+2. the Decisio tree model had a 64% accuracy and the Naïve Bayes model had a 73% accuracy, my silhouette score was only 0.221...
+3. the most decisive factors for blue winning the game is, totalgold gold difference and total experience
